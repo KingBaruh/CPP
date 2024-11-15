@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #include "Item.h"
 
 int Item::lastId = FIRST_ID;  // Initialize the static variable for IDs
