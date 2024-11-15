@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #pragma once
 #include "PeripheralDevice.h"
 #include "Computer.h"
