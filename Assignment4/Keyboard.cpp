@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #include "Keyboard.h"
 
 Keyboard::Keyboard(int price, const string& manufacturer, const string& color, bool is_wireless, int numberOfKeys)
