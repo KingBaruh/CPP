@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #include "Branch.h"
 
 // Constructor that initializes the branch with a location and capacity
