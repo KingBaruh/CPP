@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #include "Computer.h"
 
 // Constructor that initializes a computer with its price, manufacturer, CPU, and laptop status
