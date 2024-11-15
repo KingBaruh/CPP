@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #pragma once
 #define MAX_SHOPS_NUMBER 10
 #include "Shop.h"
