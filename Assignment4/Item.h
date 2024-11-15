@@ -5,7 +5,6 @@
 #include <vector>
 #include <algorithm>
 #define FIRST_ID 1
-#define ID 318739174
 
 using std::vector;
 using std::string;
