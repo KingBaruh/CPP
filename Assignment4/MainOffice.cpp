@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #include "MainOffice.h"
 
 MainOffice::MainOffice()
