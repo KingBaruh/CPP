@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #pragma once
 #include "Item.h"
 #define STORE_SIZE 10
