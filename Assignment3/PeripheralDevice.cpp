@@ -1,6 +1,3 @@
-//Student Baruh Riss, 318739174
-//Student Baruh Krugliak, 211641956
-
 #include "PeripheralDevice.h"
 
 // Constructor that initializes a peripheral device with its price, manufacturer, color, and wireless status
